@@ -1,2 +1,2 @@
 # my-usefull-code-collection
-test
+Some usefull codes to have a collection in one place for me.
